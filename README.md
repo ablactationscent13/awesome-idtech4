@@ -88,7 +88,7 @@
 - **[CC0 Skybox Pack #2](https://www.moddb.com/games/doom-iii/addons/cc0-skybox-pack-2)** - A second tiny pack of skybox textures released under CC0 license (the first one is in addons to Doom 3)
 - **[OpenSource Art](https://opengameart.org/)** - Great site with CC0 models/textures and sounds.
 - **[LibreQuake Assets](https://github.com/lavenderdotpet/LibreQuake)** - LibreQuake assets are on the CC0 license.
--
+
 ---
 
 ## 🎮 Source Ports/Games
@@ -110,6 +110,7 @@
 > Please do not send hate to these projects, if they are here, they are here for spreading awareness.
 
 - **[RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG)** – Abandoned, has many issues that affects the vanilla game, and its developter its a problematic (defending the usage of vibe coding has the "future").
+- **[Roguestrad](https://github.com/Roguestrad/Roguestrad)** – Vibecode slop, RBDOM3BFG Dev new project, don't use it.
 - **[StormEngine2/Phanteon](https://github.com/motorsep/StormEngine2)** – Shady history with its developter, not to mention he is using vibecode for adding features to his engine, which under GPL2 is highly illegal (example: [one of its PR its made using claude](https://github.com/motorsep/StormEngine2/pull/15))
 - **[OpenQ4](https://github.com/themuffinator/OpenQ4)** – Entirely vibe code, the owner has aheavy history of vibecoding products of dobiust quality, evade this like the plague and use something like idTech4A++ instead.
 
