@@ -113,7 +113,7 @@
 - **[Roguestrad](https://github.com/Roguestrad/Roguestrad)** – Vibecode slop, RBDOM3BFG Dev new project, don't use it.
 - **[StormEngine2/Phanteon](https://github.com/motorsep/StormEngine2)** – Shady history with its developter, not to mention he is using vibecode for adding features to his engine, which under GPL2 is highly illegal (example: [one of its PR its made using claude](https://github.com/motorsep/StormEngine2/pull/15))
 - **[OpenQ4](https://github.com/themuffinator/OpenQ4)** – Entirely vibe code, the owner has aheavy history of vibecoding products of dobiust quality, evade this like the plague and use something like idTech4A++ instead.
-
+- **[OpenPrey](https://github.com/themuffinator/OpenPrey)** - Same slop has above, please dont use it
 ---
 
 ## 🤝 Contributing
